@@ -1,2 +1,2 @@
 # ProjectZero
-This project is dedicated to an about me portfolio.
+This project is dedicated to an about me portfolio by Brandon Castillo. enjoy.
