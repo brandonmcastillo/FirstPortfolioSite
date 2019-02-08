@@ -72,8 +72,8 @@ li {
 
 }
 
-.icon-firstname,
-.icon-lastname {
+#icon-firstname,
+#icon-lastname {
     margin-left: 50px;
     padding: 2px;
     opacity: 0.8;
@@ -82,33 +82,39 @@ li {
 /* Section: About */
 
 #about {
-    height: 10em;
+    border: black solid 1px;
 
 }
 
 /* Section: Skills  */
 #skills {
-    height: 20em;
+    
+border: black solid 1px;
+    margin-bottom:  12em;
+}
 
+
+.frontSkills {
+	max-width: 100px;
+	max-height:  100px;
+	margin-left:  -1em;
+	padding:  10px;
+	display:  flex;
+	flex-direction:  row;
 }
 
 /* Section: Portfolio */
 #work {
-    height: 20em;
-
+  
+border:  black solid 1px;
 }
 
 /* Section: Testimonials */
 #testimonials {
-    height: 15em;
-
+border:  black solid 1px;
 }
 
 /* Section: Contact */
-#contact {
-    height: 25em;
 
-}
 
 /* Section: Footer */
-#footer {}
